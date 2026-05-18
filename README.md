@@ -1,0 +1,2 @@
+# Detecting-Fraudulent-Insurance-Claims-Using-Data-Mining-Techniques
+A machine learning-based insurance fraud detection system using Random Forest, SMOTE, and anomaly detection techniques to identify fraudulent claims with high accuracy. The project focuses on handling imbalanced datasets, reducing false positives, and improving fraud detection performance through data mining and ensemble learning.
